@@ -1,7 +1,9 @@
-load_curve_modelling
+Load curve model
 ==============================
 
-Optimization and machine learning to estimate end-use load profiles and total load curve using historical data
+Project made for [**IEA**](https://www.iea.org/). 
+
+Deep learning methods to estimate end-use load profiles and total load curve using historical data mostly from developped economies. The model is based on a *MultiLayer Perceptron (MLP)* used for each end-use aimed to be disaggregated from the total load.
 
 Project Organization
 ------------
